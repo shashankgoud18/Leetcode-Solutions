@@ -11,21 +11,21 @@ class Solution(object):
         :rtype: bool
         """
         #Brute Force 
-        # temp = head
-        # my_set = set()
-        # while temp is not None:
-        #     if temp in my_set:
-        #         return True
-        #     my_set.add(temp)
-        #     temp = temp.next
-        # return False
+        temp = head
+        my_set = set()
+        while temp is not None:
+            if temp in my_set:
+                return True
+            my_set.add(temp)
+            temp = temp.next
+        return False
 
         #Optimal solution 
-        slow = head
-        fast = head 
-        while fast is not None and fast.next is not None:
-            slow = slow.next
-            fast = fast.next.next
-            if fast == slow:
-                return True
-        return False
+        # slow = head
+        # fast = head 
+        # while fast is not None and fast.next is not None:
+        #     slow = slow.next
+        #     fast = fast.next.next
+        #     if fast == slow:
+        #         return True
+        # return False
