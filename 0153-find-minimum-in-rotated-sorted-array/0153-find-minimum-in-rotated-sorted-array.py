@@ -19,7 +19,6 @@ class Solution(object):
         minimum = nums[n-1]
         while low <= high:
             mid = (low+high)//2
-            
             if nums[low]<=nums[mid]:
                  minimum = min(minimum,nums[low])
                  low = mid + 1
