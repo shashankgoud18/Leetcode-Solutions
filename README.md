@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
