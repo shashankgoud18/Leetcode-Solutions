@@ -4,6 +4,7 @@ class Solution(object):
         :type num: int
         :rtype: int
         """
+        
         final = 0
         flag = True
         for i in str(num):
@@ -13,4 +14,3 @@ class Solution(object):
             else:
                 final = final*10 + int(i)
         return final 
-        
