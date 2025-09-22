@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1448-maximum-69-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 ## Sorting
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Linked List
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
