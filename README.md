@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
 | ------- |
@@ -227,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
