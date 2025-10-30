@@ -11,8 +11,7 @@ class Solution:
             if g[left] <= s[right]:
                 maxi += 1
                 left += 1
-                right += 1
-            else: 
-                right += 1
+            right += 1
+            
         return maxi
             
