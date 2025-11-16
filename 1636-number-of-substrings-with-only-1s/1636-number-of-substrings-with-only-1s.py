@@ -1,0 +1,15 @@
+class Solution:
+    def numSub(self, s: str) -> int:
+        n = len(s)
+        count = 0
+        curr = 0 if s[0] == '0' else 1
+        mod = 10**9 + 7
+        for i in range(1,n):
+            if s[i] == '1':
+                curr += 1 
+            else:
+                count += (curr*(curr+1))//2
+                curr = 0
+        
+        count += (curr*(curr+1))//2
+        return count % mod
