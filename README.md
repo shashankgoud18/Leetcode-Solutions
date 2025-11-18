@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0890-lemonade-change) |
