@@ -8,7 +8,7 @@ class Solution:
         stack = []
         temp = head
         result = 0
-        while temp:
+        while temp is not None:
             stack.append(temp.val)
             temp = temp.next 
         
