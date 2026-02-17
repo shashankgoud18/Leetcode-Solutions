@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Linked List
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## Prefix Sum
 |  |
 | ------- |
