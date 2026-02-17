@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0401-binary-watch](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0401-binary-watch) |
 ## String
 |  |
 | ------- |
