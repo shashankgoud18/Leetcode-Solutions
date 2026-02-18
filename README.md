@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
