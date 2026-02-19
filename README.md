@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0696-count-binary-substrings](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0696-count-binary-substrings](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Stack
 |  |
