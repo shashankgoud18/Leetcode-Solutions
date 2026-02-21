@@ -13,12 +13,20 @@ class Solution:
                 return False
             i+= 2 
         return True
+    
+    def countBits(self,n):
+        count = 0
+        while n>0:
+            if n%2==1:
+                count += 1 
+            n = n//2 
+        return count
 
     def countPrimeSetBits(self, left: int, right: int) -> int:
         count = 0
         for i in range(left,right+1):
 
-            bitCount = i.bit_count()
+            bitCount = self.countBits(i)
             checkPrime = self.isPrime(bitCount)
             if checkPrime:
                 count += 1
