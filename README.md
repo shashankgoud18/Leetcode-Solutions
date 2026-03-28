@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0717-1-bit-and-2-bit-characters](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
