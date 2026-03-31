@@ -1,12 +1,8 @@
-class Solution(object):
-    def missingNumber(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        n= len(nums)
-        natural_sum = (n*(n+1))//2
-        sum = 0
-        for i in nums:
-            sum += i 
-        return natural_sum - sum
+class Solution:
+    def missingNumber(self, nums: List[int]) -> int:
+        for i in range(len(nums)+1):
+            if i in nums:
+                continue
+            else:
+                return i
+        return None
