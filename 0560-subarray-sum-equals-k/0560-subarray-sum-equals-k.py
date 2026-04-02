@@ -1,21 +1,14 @@
-class Solution(object):
-    def subarraySum(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: int
-        """
-        count = 0
+class Solution:
+    def subarraySum(self, nums: List[int], k: int) -> int:
+
         curr_sum = 0
-        prefix = {}
+        ans = 0
+        hash_map = {0:1}
+
         for num in nums:
             curr_sum += num
-            if curr_sum == k:
-                count += 1
-            
-            if(curr_sum - k) in prefix:
-                count += prefix[curr_sum - k]
-
-            prefix[curr_sum] = prefix.get(curr_sum,0)+1
-        return count
-        
+            check = curr_sum-k
+            if check in hash_map:
+                ans += hash_map[check]
+            hash_map[curr_sum] = hash_map.get(curr_sum,0)+1
+        return ans
