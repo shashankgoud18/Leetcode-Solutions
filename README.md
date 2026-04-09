@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0657-robot-return-to-origin](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0940-fruit-into-baskets](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
