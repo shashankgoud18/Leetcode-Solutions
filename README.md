@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0066-plus-one) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
