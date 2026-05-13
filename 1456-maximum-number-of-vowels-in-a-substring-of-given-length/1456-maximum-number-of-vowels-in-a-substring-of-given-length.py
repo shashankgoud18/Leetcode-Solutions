@@ -22,7 +22,7 @@ class Solution:
         right = 0
         n = len(s)
         max_vowels = 0
-        vowels = ['a','e','i','o','u']
+        vowels = set('aeiou')
         count = 0
         while right < n:
             
