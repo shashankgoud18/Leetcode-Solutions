@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0657-robot-return-to-origin](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
