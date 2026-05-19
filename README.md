@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1848-minimum-distance-to-the-target-element](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Two Pointers
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2540-minimum-common-value](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
