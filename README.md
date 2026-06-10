@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2540-minimum-common-value](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
