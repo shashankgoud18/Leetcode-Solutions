@@ -4,16 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        n = len(nums)
-        half = n//2
-        hash_map = {}
-        for i in range(0,n):
-            num = nums[i]
-            if num in hash_map:
-                hash_map[num] += 1
-            else:
-                hash_map[num] = 1
+        candidate = None
+        count = 0 
 
-        for k in hash_map:
-            if hash_map[k] > half:
-                return k
+        for num in nums:
+            if count == 0:
+                candidate = num
+            if num == candidate:
+                count += 1 
+            else:
+                count -= 1 
+        return candidate
