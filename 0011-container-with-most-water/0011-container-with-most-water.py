@@ -12,18 +12,16 @@ class Solution:
         # return result
         n = len(height)
         left = 0
-        right = n-1
+        right = n-1 
+        h = float('inf') 
         result = 0
         while left<right:
-            dis = right - left 
-            area = dis*min(height[left],height[right])
-            result = max(result,area)
-
-            if height[left]<=height[right]:
-                left += 1 
+            h = min(height[left],height[right])
+            width = right - left 
+            area = h*width
+            result = max(area,result)
+            if height[left] <= height[right]:
+                left += 1
             else:
-                right -= 1 
-        
+                right -= 1
         return result
-        
-            
