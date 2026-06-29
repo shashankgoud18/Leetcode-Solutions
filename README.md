@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1636-number-of-substrings-with-only-1s](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2833-furthest-point-from-origin](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
