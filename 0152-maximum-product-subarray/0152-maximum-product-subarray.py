@@ -12,34 +12,39 @@ class Solution:
         # return ans
 
         #Optimal DP
-        n = len(nums)
-        minEnding = nums[0]
-        maxEnding = nums[0]
-        ans = nums[0]
+        # n = len(nums)
+        # minEnding = nums[0]
+        # maxEnding = nums[0]
+        # ans = nums[0]
 
-        for i in range(1,n):
-            prevMax = maxEnding
-            prevMin = minEnding
+        # for i in range(1,n):
+        #     prevMax = maxEnding
+        #     prevMin = minEnding
 
-            maxEnding = max(nums[i], prevMax*nums[i],prevMin*nums[i])
-            minEnding = min(nums[i],prevMin*nums[i],prevMax*nums[i])
+        #     maxEnding = max(nums[i], prevMax*nums[i],prevMin*nums[i])
+        #     minEnding = min(nums[i],prevMin*nums[i],prevMax*nums[i])
 
-            ans = max(ans,max(maxEnding,minEnding))
+        #     ans = max(ans,max(maxEnding,minEnding))
         
-        return ans
+        # return ans
 
         #Optimal
+        n = len(nums)
         left = 0
         right = n-1 
         prefixPro = 1 
         suffixPro = 1 
         ans = nums[0]
-        while left<=right:
-            
+        while left<n:
+            if prefixPro == 0:
+                prefixPro = 1
+            elif suffixPro == 0:
+                suffixPro = 1
+
             prefixPro *= nums[left]
             suffixPro *= nums[right]
 
-            ans = max(prefixPro,suffixPro)
+            ans = max(ans,max(prefixPro,suffixPro))
             left += 1 
             right -= 1 
         
