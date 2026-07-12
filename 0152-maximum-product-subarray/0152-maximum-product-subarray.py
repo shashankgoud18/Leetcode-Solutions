@@ -11,7 +11,7 @@ class Solution:
         
         # return ans
 
-        #Optimal
+        #Optimal DP
         n = len(nums)
         minEnding = nums[0]
         maxEnding = nums[0]
@@ -27,3 +27,21 @@ class Solution:
             ans = max(ans,max(maxEnding,minEnding))
         
         return ans
+
+        #Optimal
+        left = 0
+        right = n-1 
+        prefixPro = 1 
+        suffixPro = 1 
+        ans = nums[0]
+        while left<=right:
+            
+            prefixPro *= nums[left]
+            suffixPro *= nums[right]
+
+            ans = max(prefixPro,suffixPro)
+            left += 1 
+            right -= 1 
+        
+        return ans
+
