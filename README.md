@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
