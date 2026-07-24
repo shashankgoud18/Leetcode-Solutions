@@ -1,24 +1,5 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-
-        # num = 0
-        # for ch in s:
-        #     if ch == "I":
-        #         num += 1 
-        #     if ch == "V":
-        #         num += 5 
-        #     elif ch == "X":
-        #         num += 10
-        #     elif ch == "L":
-        #         num += 50
-        #     elif ch == "C":
-        #         num += 100
-        #     elif ch == "D":
-        #         num += 500
-        #     elif ch == "M":
-        #         num += 1000
-        # return num
-
         hash_map = {
             "I": 1,
             "V": 5,
@@ -35,7 +16,6 @@ class Solution:
                 total -= hash_map[s[i]]
             else:
                 total += hash_map[s[i]]
-
         return total
 
 
