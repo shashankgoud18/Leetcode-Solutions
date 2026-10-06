@@ -533,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
