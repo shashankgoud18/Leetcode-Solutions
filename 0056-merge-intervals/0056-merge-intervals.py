@@ -1,16 +1,15 @@
-class Solution(object):
-    def merge(self, intervals):
-        """
-        :type intervals: List[List[int]]
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         intervals.sort()
         result = [intervals[0]]
-        print(result)
+        
         for start,end in intervals:
             if start <= result[-1][1]:
-                result[-1][1] = max(result[-1][1],end)
+                result[-1][1] = max(end,result[-1][1])
             else:
                 result.append([start,end])
-        
+
+
         return result
+
+        
