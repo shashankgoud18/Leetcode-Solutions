@@ -11,17 +11,22 @@ class Solution:
         
         # return result
         n = len(height)
-        left = 0
-        right = n-1 
-        h = float('inf') 
+        i = 0
+        j = n-1
+        min_height = float("inf")
         result = 0
-        while left<right:
-            h = min(height[left],height[right])
-            width = right - left 
-            area = h*width
+        while i < j:
+            min_height = min(height[i],height[j])
+            width = j-i
+            area = width * min_height
             result = max(area,result)
-            if height[left] <= height[right]:
-                left += 1
+
+            if height[i] < height[j]:
+                i += 1 
             else:
-                right -= 1
+                j -= 1 
         return result
+
+
+
+        
