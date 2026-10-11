@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1448-maximum-69-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
