@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0890-lemonade-change) |
