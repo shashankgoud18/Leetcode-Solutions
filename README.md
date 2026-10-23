@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0075-sort-colors) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -554,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
