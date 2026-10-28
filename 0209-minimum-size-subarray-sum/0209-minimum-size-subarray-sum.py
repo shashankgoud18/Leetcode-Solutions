@@ -20,21 +20,17 @@ class Solution:
         left = 0
         right = 0
         n = len(nums)
-        curr_sum= 0 
-        min_len = float("inf")
-        while right<n:
-            curr_sum += nums[right]
+        max_length = float("inf")
+        total = 0
+        while right < n:
 
-            while curr_sum >= target:
-                subarr_len = right-left + 1
-                min_len = min(min_len,subarr_len)
-                curr_sum -= nums[left]
+            total += nums[right]
+
+            while total >= target:
+                max_length = min(max_length, right-left+1)
+                total -= nums[left]
                 left += 1 
-            
             right += 1 
-        if min_len == float("inf"):
+        if max_length == float("inf"):
             return 0
-        
-        return min_len
-
-        
+        return max_length
