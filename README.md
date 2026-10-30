@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0303-range-sum-query-immutable](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
