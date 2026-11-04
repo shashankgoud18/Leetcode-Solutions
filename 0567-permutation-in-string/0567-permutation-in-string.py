@@ -1,34 +1,30 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
 
-        if len(s1) > len(s2):
-            return False
-        
         n = len(s1)
-        h1 = {}
-        for ch in s1:
-            h1[ch] = h1.get(ch,0)+1
-        
-        h2 = {}
-        for i in range(n):
-            h2[s2[i]] = h2.get(s2[i],0)+1
-
-        if h1 == h2:
-            return True
-        
-        l = 0
-        r = n
         m = len(s2)
-        while r<m:
-            h2[s2[r]] = h2.get(s2[r],0)+1
-
-            h2[s2[l]] -= 1
-            if h2[s2[l]] == 0:
-                del h2[s2[l]]
-            l+=1
-
-            r += 1
-            if h1 == h2:
-                return True
+        s1_freq = {}
+        s2_freq = {}
+        if n > m:
+            return False
+        for i in range(n):
+            s1_freq[s1[i]] = s1_freq.get(s1[i],0)+1
         
+        i = 0
+        j = 0
+
+        while j < m:
+            s2_freq[s2[j]] = s2_freq.get(s2[j],0)+1
+
+            if j-i+1 > n:
+                s2_freq[s2[i]] -= 1 
+                if s2_freq[s2[i]] == 0:
+                    del s2_freq[s2[i]]
+                i += 1 
+
+ 
+            if s1_freq == s2_freq:
+                return True
+            
+            j += 1 
         return False
