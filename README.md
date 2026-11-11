@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1848-minimum-distance-to-the-target-element](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1975-maximum-matrix-sum](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0867-transpose-matrix](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
+| [1975-maximum-matrix-sum](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Backtracking
 |  |
