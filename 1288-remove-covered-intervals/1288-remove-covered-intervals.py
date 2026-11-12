@@ -5,10 +5,7 @@ class Solution:
         max_ending = 0
         count = 0
         for i in range(n):
-            current_interval = intervals[i]
-            cs = current_interval[0]
-            ce = current_interval[1]
-
+            ce = intervals[i][1]
             if ce > max_ending:
                 max_ending = max(ce,max_ending)
                 continue
