@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0566-reshape-the-matrix](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
