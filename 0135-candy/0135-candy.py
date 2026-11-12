@@ -1,13 +1,14 @@
 class Solution:
     def candy(self, ratings: list[int]) -> int:
         n = len(ratings)
-        c = [1]*n
+        candy = [1]*n
 
+        for i in range(n-2,-1,-1):
+            if ratings[i] > ratings[i+1]:
+                candy[i] = candy[i+1] + 1 
+        
         for i in range(1,n):
             if ratings[i] > ratings[i-1]:
-                c[i] = c[i-1] + 1 
-        for i in range(n-1,0,-1):
-            if ratings[i-1] > ratings[i]:
-                c[i-1] = max(c[i-1],c[i]+1) 
+                candy[i] = max(candy[i],candy[i-1] + 1)
         
-        return sum(c)
+        return sum(candy)
