@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0696-count-binary-substrings](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -612,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
