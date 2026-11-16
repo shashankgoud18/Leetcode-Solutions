@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1424-diagonal-traverse-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1424-diagonal-traverse-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1424-diagonal-traverse-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1424-diagonal-traverse-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -625,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0986-interval-list-intersections) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1424-diagonal-traverse-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1424-diagonal-traverse-ii) |
 <!---LeetCode Topics End-->
