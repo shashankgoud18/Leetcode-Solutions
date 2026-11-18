@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0890-lemonade-change) |
+| [1328-break-a-palindrome](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1328-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1975-maximum-matrix-sum](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1328-break-a-palindrome](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1328-break-a-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
