@@ -2,14 +2,14 @@ class Solution:
     def rob(self, nums: list[int]) -> int:
         n = len(nums)
         memo = [-1]*n
-        def solve(nums,i):
+        def solve(i):
             if i >= n:
                 return 0 
             if memo[i] != -1:
                 return memo[i]
-            steal = nums[i] + solve(nums,i+2)
-            skip = solve(nums,i+1)
+            steal = nums[i] + solve(i+2)
+            skip = solve(i+1)
             memo[i] =  max(steal,skip)
-            return max(memo)
+            return memo[i]
 
-        return solve(nums,0)
+        return solve(0)
