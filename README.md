@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0986-interval-list-intersections](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1424-diagonal-traverse-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1424-diagonal-traverse-ii) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
