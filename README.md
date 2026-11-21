@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1552-magnetic-force-between-two-balls](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1424-diagonal-traverse-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1424-diagonal-traverse-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2540-minimum-common-value](https://github.com/shashankgoud18/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
