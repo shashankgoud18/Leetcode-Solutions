@@ -1,9 +1,5 @@
-class Solution(object):
-    def reverse(self, x):
-        """
-        :type x: int
-        :rtype: int
-        """
+class Solution:
+    def reverse(self, x: int) -> int:
         if x<0:
             sign = -1
             x = -x
@@ -22,5 +18,3 @@ class Solution(object):
             result = result*10 + last_digit
 
         return result*sign
-
-        
